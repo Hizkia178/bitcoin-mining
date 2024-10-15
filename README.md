@@ -1,0 +1,2 @@
+# bitcoin-mining
+mining
